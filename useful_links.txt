@@ -1,2 +1,4 @@
 1. For Quich cheat sheet for many langugaes: 
     http://lzone.de
+2. Top DevOps tutorial
+https://www.topzenith.com/2018/02/top-10-best-devops-video-tutorials.html
